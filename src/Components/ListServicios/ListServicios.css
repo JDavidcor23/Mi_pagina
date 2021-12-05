@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+.container-servicios {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+}
+.container-servicios h2 {
+  font-family: "Nunito", sans-serif;
+  font-size: 4rem;
+  color: white;
+}
+.servicios-ul li:nth-child(1) {
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+.servicios-ul li {
+  font-size: 2.6rem;
+  color: white;
+  margin: 20px 0;
+  font-family: "Lora", serif;
+  list-style: none;
+}
+.contactame {
+  cursor: pointer;
+  width: 160px;
+  color: #0fd3d1;
+  background: black;
+  border: 1px solid black;
+  height: 40px;
+  display: flex;
+  margin: 40px 0;
+  justify-content: center;
+  align-items: center;
+}
+.contactame span img {
+  margin-top: 5px;
+  width: 20px;
+}
+@media (max-width: 900px) {
+  .container-servicios {
+    text-align: center;
+    padding: 0;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .container-servicios {
+    padding: 20px 0;
+  }
+  .container-servicios h2 {
+    padding: 0;
+    font-size: 3rem;
+  }
+  .servicios-ul li:nth-child(1) {
+    padding: 0;
+    font-size: 2.5rem;
+  }
+  ol,
+  ul {
+    padding: 0;
+  }
+  .servicios-ul li {
+    font-size: 1.8rem;
+  }
+  .contactame {
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+  }
+}

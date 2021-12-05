@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+.mensajeEnviado {
+  text-align: center;
+  padding: 20px;
+  background: black;
+  color: #0fd3d1;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.containerEnviado {
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+form {
+  display: flex;
+  width: 50%;
+  padding: 20px;
+  background: black;
+  color: white;
+  flex-direction: column;
+  justify-content: center;
+}
+form h2 {
+  color: white;
+  font-size: 3rem;
+  font-family: "Nunito", sans-serif;
+}
+form p {
+  font-family: "Lora", serif;
+  color: #a7a9be;
+}
+form input {
+  margin: 20px 0;
+}
+form .enviar {
+  margin: 20px 0;
+  height: 40px;
+  border: none;
+  background: #0fd3d1;
+  color: white;
+  cursor: pointer;
+  font-size: 1.4rem;
+}
+textarea {
+  height: 100px;
+}
+@media (max-width: 900px) {
+  form {
+    margin: 50px 0;
+    width: 90%;
+  }
+}

@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+#hola {
+  background: #0f0e17;
+  display: flex;
+  height: 100vh;
+  justify-content: space-evenly;
+  align-items: center;
+}
+#hola h2 {
+  font-family: "Nunito", sans-serif;
+  font-size: 2.8rem;
+  color: white;
+}
+#hola h1 {
+  font-family: "Nunito", sans-serif;
+  font-size: 2.8rem;
+  color: white;
+}
+#hola span {
+  color: #0fd3d1;
+}
+.imgProfile {
+  height: 90%;
+}
+.arrow {
+  width: 60px;
+  margin-top: 15px;
+}
+#hola p {
+  margin-top: 35px;
+  font-family: "Lora", serif;
+  width: 90%;
+  font-size: 1.5rem;
+  color: #a7a9be;
+}
+.nameDescription {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  height: 70%;
+  justify-content: space-between;
+}
+@media (max-width: 900px) {
+  #hola {
+    flex-direction: column-reverse;
+    height: auto;
+  }
+  .imgProfile {
+    width: 90%;
+    height: 600px;
+    object-fit: contain;
+  }
+  #hola h2 {
+    font-size: 2rem;
+  }
+  #hola h1 {
+    font-size: 2rem;
+  }
+  .nameDescription {
+    display: flex;
+    width: 90%;
+    flex-direction: column;
+    height: 50%;
+    justify-content: space-between;
+  }
+}
