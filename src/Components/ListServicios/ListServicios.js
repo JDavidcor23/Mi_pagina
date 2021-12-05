@@ -10,7 +10,7 @@ const ListServicios = () => {
                 <li>Aplicaciones web</li>
                 <li>Maquetación web</li>
                 <li>Responsive Desing</li>
-                <a href="#Contactame" className='urlRepositorios' target="_blank" rel="noreferrer">
+                <a href="#Contactame" className='urlRepositorios'>
                 <button className='contactame'>Escribeme<span><img src="https://res.cloudinary.com/dbtk64lp4/image/upload/v1638660002/porfolio-react/arrow-right_hrbdsf.png" alt="arrow-black"/></span></button>
             </a>
             </ul>
