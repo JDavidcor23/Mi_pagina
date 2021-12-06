@@ -4,19 +4,19 @@ import './Proyects.css'
 const proyectosLinks =[
     {
         id:1,
-        title:"Pagina de Adopcion",
+        title:"Aplicación de adopción",
         urlCode:"https://github.com/JDavidcor23/Adopcion__Academia-Geek",
         url:"https://jdavidcor23.github.io/Adopcion__Academia-Geek/",
         img:"https://res.cloudinary.com/dbtk64lp4/image/upload/v1638658170/porfolio-react/Captura_de_pantalla_2021-12-04_174720_pomjjm.png",
-        parrafo:"Niko es una de las marcas y proveedores de equipamiento deportivo más  reconocidas y valiosas en todo el mundo."
+        parrafo:"Aplicación de adopción, es una aplicación web para adoptar animales de compañía que no tiene hogar, con este proyecto aprendí Javascript vanilla, funcione async await, peticiones fetch, cómo manejar datos tipo JSON, PUT, DELETE, POT y maquetación profesional."
     },
     {
         id:2,
-        title:"Compra tus Bitcoins",
+        title:"Batabit",
         urlCode:"https://github.com/JDavidcor23/Responsive-desing",
         url:"https://jdavidcor23.github.io/Responsive-desing/",
         img:"https://res.cloudinary.com/dbtk64lp4/image/upload/v1638658170/porfolio-react/Captura_de_pantalla_2021-12-04_174535_eddrut.png",
-        parrafo:"La serie está protagonizada por Will Smith como una versión ficticia de sí..."
+        parrafo:"Batabit, es una landing page para comprar bitcons. Con este proyecto aprendí Responsive desing en css,maquetación web, SEO y despliegue en GitHub pages."
     },
     {
         id:3,
@@ -24,7 +24,7 @@ const proyectosLinks =[
         urlCode:"https://github.com/JDavidcor23/Introduccion_a_Reactjs_Platzi",
         url:"https://jdavidcor23.github.io/Introduccion_a_Reactjs_Platzi/",
         img:"https://res.cloudinary.com/dbtk64lp4/image/upload/v1638658170/porfolio-react/Captura_de_pantalla_2021-12-04_174812_rqhgps.png",
-        parrafo:"Amazonas es la empresa en internet de venta al por menor más grande del..."
+        parrafo:"React TODOs, este es una aplicación web que te permite agregar tus propios TODOs, borrar, buscar y marcar como completados los TODOs, con este proyecto aprendí react básico, Hooks, localstorage y componentes"
     }
 ]
 
