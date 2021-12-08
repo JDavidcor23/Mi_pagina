@@ -111,9 +111,6 @@
     right: 0;
     top: 45px;
   }
-  .container_proyect_link {
-    margin: 0 0 350px 0;
-  }
   .container-buttons-proyects {
     flex-direction: column;
     margin: 0 auto;
@@ -129,5 +126,12 @@
     width: 90%;
 
     padding: 10px;
+  }
+  .container_proyect_link .container-text-proyect {
+    position: static;
+    width: 100%;
+  }
+  .container_proyect_link {
+    flex-direction: column;
   }
 }
