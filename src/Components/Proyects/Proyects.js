@@ -5,8 +5,8 @@ const proyectosLinks =[
      {
         id:1,
         title:"Block Master",
-        urlCode:"https://block-master-two.vercel.app",
-        url:"https://github.com/JDavidcor23/Block_master",
+        urlCode:"https://github.com/JDavidcor23/Block_master",
+        url:"https://block-master-two.vercel.app",
         img:"https://res.cloudinary.com/dhu6ga6hl/image/upload/v1641270199/lfaw0g4q18ggb5frl2n6.png",
         parrafo:"Block Master, es una aplicación web para agregar películas como favoritas, filtrar, mostrar las más valoradas. Con estre proyecto aprendí mucho más de los hooks en React, styled components y peticiones"
     },
