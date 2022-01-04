@@ -71,6 +71,7 @@
 }
 .text-proyectos {
   display: flex;
+  flex-direction:column;
   width: 90%;
   align-items: center;
   margin: 0 auto;
