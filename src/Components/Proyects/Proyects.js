@@ -2,8 +2,16 @@ import React from 'react';
 import './Proyects.css'
 
 const proyectosLinks =[
-    {
+     {
         id:1,
+        title:"Block Master",
+        urlCode:"https://block-master-two.vercel.app",
+        url:"https://github.com/JDavidcor23/Block_master",
+        img:"https://res.cloudinary.com/dhu6ga6hl/image/upload/v1641270199/lfaw0g4q18ggb5frl2n6.png",
+        parrafo:"Block Master, es una aplicación web para agregar películas como favoritas, filtrar, mostrar las más valoradas. Con estre proyecto aprendí mucho más de los hooks en React, styled components y peticiones"
+    },
+    {
+        id:2,
         title:"Aplicación de adopción",
         urlCode:"https://github.com/JDavidcor23/Adopcion__Academia-Geek",
         url:"https://jdavidcor23.github.io/Adopcion__Academia-Geek/",
@@ -11,7 +19,7 @@ const proyectosLinks =[
         parrafo:"Aplicación de adopción, es una aplicación web para adoptar animales de compañía que no tiene hogar, con este proyecto aprendí Javascript vanilla, funcione async await, peticiones fetch, cómo manejar datos tipo JSON, PUT, DELETE, POT y maquetación profesional."
     },
     {
-        id:2,
+        id:3,
         title:"Batabit",
         urlCode:"https://github.com/JDavidcor23/Responsive-desing",
         url:"https://jdavidcor23.github.io/Responsive-desing/",
@@ -19,7 +27,7 @@ const proyectosLinks =[
         parrafo:"Batabit, es una landing page para comprar bitcons. Con este proyecto aprendí Responsive desing en css,maquetación web, SEO y despliegue en GitHub pages."
     },
     {
-        id:3,
+        id:4,
         title:"React TODOs",
         urlCode:"https://github.com/JDavidcor23/Introduccion_a_Reactjs_Platzi",
         url:"https://jdavidcor23.github.io/Introduccion_a_Reactjs_Platzi/",
