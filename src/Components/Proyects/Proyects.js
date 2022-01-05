@@ -8,7 +8,7 @@ const proyectosLinks =[
         urlCode:"https://github.com/JDavidcor23/Block_master",
         url:"https://block-master-two.vercel.app",
         img:"https://res.cloudinary.com/dhu6ga6hl/image/upload/v1641270199/lfaw0g4q18ggb5frl2n6.png",
-        parrafo:"Block Master, es una aplicación web para agregar películas como favoritas, filtrar, mostrar las más valoradas. Con estre proyecto aprendí mucho más de los hooks en React, styled components y peticiones"
+        parrafo:"Block Master, es una aplicación web para agregar películas como favoritas, filtrar, mostrar las más valoradas. Con este proyecto aprendí mucho más de los hooks en React, styled components y peticiones"
     },
     {
         id:2,
@@ -24,7 +24,7 @@ const proyectosLinks =[
         urlCode:"https://github.com/JDavidcor23/Responsive-desing",
         url:"https://jdavidcor23.github.io/Responsive-desing/",
         img:"https://res.cloudinary.com/dbtk64lp4/image/upload/v1638658170/porfolio-react/Captura_de_pantalla_2021-12-04_174535_eddrut.png",
-        parrafo:"Batabit, es una landing page para comprar bitcons. Con este proyecto aprendí Responsive desing en css,maquetación web, SEO y despliegue en GitHub pages."
+        parrafo:"Batabit, es una landing page para comprar bitcoins. Con este proyecto aprendí Responsive design en css,maquetación web, SEO y despliegue en GitHub pages."
     },
     {
         id:4,
