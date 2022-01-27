@@ -2,8 +2,16 @@ import React from 'react';
 import './Proyects.css'
 
 const proyectosLinks =[
-     {
+      {
         id:1,
+        title:"Amazonas",
+        urlCode:"https://github.com/JDavidcor23/amazonas",
+        url:"https://as-74bd2.web.app",
+        img:"https://res.cloudinary.com/dhu6ga6hl/image/upload/v1643308739/pvipoads96rq9qklinnn.png",
+        parrafo:"Amazonas es una pagina inspirada en Amazon, que cuenta con varios artículos para que compres, puedes loguearte con Google,  Facebook o con tu cuenta de correo, también puedes filtrar, buscar añadir al carrito, vender, eliminar tus productos y editarlos tecnologías: Redux, React , Firebase, StyledComponents, Bootstrap, Formik, Yup"
+    },
+     {
+        id:2,
         title:"Block Master",
         urlCode:"https://github.com/JDavidcor23/Block_master",
         url:"https://block-master-two.vercel.app",
@@ -11,7 +19,7 @@ const proyectosLinks =[
         parrafo:"Block Master, es una aplicación web para agregar películas como favoritas, filtrar, mostrar las más valoradas. Con este proyecto aprendí mucho más de los hooks en React, styled components y peticiones"
     },
     {
-        id:2,
+        id:3,
         title:"Aplicación de adopción",
         urlCode:"https://github.com/JDavidcor23/Adopcion__Academia-Geek",
         url:"https://jdavidcor23.github.io/Adopcion__Academia-Geek/",
@@ -19,7 +27,7 @@ const proyectosLinks =[
         parrafo:"Aplicación de adopción, es una aplicación web para adoptar animales de compañía que no tiene hogar, con este proyecto aprendí Javascript vanilla, funcione async await, peticiones fetch, cómo manejar datos tipo JSON, PUT, DELETE, POT y maquetación profesional."
     },
     {
-        id:3,
+        id:4,
         title:"Batabit",
         urlCode:"https://github.com/JDavidcor23/Responsive-desing",
         url:"https://jdavidcor23.github.io/Responsive-desing/",
@@ -27,7 +35,7 @@ const proyectosLinks =[
         parrafo:"Batabit, es una landing page para comprar bitcoins. Con este proyecto aprendí Responsive design en css,maquetación web, SEO y despliegue en GitHub pages."
     },
     {
-        id:4,
+        id:5,
         title:"React TODOs",
         urlCode:"https://github.com/JDavidcor23/Introduccion_a_Reactjs_Platzi",
         url:"https://jdavidcor23.github.io/Introduccion_a_Reactjs_Platzi/",
