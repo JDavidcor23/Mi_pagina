@@ -18,7 +18,7 @@ const Navbar = () => {
                 <li className='li-nav'><a href="#Proyectos" className='links'>Proyectos</a></li>
                 <li className='li-nav'><a href="#servicios" className='links'>Servicios</a></li>
                 <li><a href="#Contactame" className='links'>Contactame</a></li>
-                <li><a href="https://drive.google.com/file/d/1MzqO2HdXZktvLNOSj80pheLFP1-o2da0/view?usp=sharing" className='links' target="_blank"rel="noreferrer"><button className="curriculum">Descargar currículum</button></a></li>
+                <li><a href="https://drive.google.com/file/d/1JXaDz8BE1EmRfuirWh-P-JNPWLk9Xj2p/view?usp=sharing" className='links' target="_blank"rel="noreferrer"><button className="curriculum">Descargar currículum</button></a></li>
             </ul>
         </nav>
     );
