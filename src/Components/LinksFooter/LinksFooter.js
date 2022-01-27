@@ -22,7 +22,7 @@ const LinksFooter = () => {
                   </a>
               </li>
               <li>
-                  <a href='https://www.linkedin.com/in/jorge-david-diaz-cordero-66b3a11ba/' target="_blank" rel="noreferrer">
+                  <a href='https://www.linkedin.com/in/jorge-david-diaz-cordero-desarrollador-web-react/' target="_blank" rel="noreferrer">
                     <img src="https://res.cloudinary.com/dbtk64lp4/image/upload/v1638491695/freecode-portfolio/icons8-linkedin-30_kpbdds.png" alt="linkeding"/>
                   </a>
               </li>
