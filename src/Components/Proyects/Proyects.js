@@ -50,7 +50,7 @@ const proyectsLinks=[
         urlCode:"https://github.com/JDavidcor23/amazonas",
         url:"https://as-74bd2.web.app",
         img:"https://res.cloudinary.com/dhu6ga6hl/image/upload/v1643308739/pvipoads96rq9qklinnn.png",
-        parrafo:"Amazon is a website inspired by Amazon, which has several items for you to buy, you can log in with Google, Facebook or your email account, you can also filter, search, add to cart, sell, delete your products and edit them. Technologies: Redux, React, Firebase, StyledComponents, Bootstrap, Formik, Yup."
+        parrafo:"Amazonas is a website inspired by Amazon, which has several items for you to buy, you can log in with Google, Facebook or your email account, you can also filter, search, add to cart, sell, delete your products and edit them. Technologies: Redux, React, Firebase, StyledComponents, Bootstrap, Formik, Yup."
     },
      {
         id:2,
