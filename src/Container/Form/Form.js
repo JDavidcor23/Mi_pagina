@@ -1,10 +1,10 @@
 import React from 'react';
 import Formulario from '../../Components/Formulario/Formulario';
 import './Form.css'
-const Form = () => {
+const Form = ({language}) => {
     return (
         <section id="Contactame" className='.contact'>
-            <Formulario/>
+            <Formulario language={language}/>
         </section>
     );
 };

@@ -1,10 +1,10 @@
 import React from 'react';
 import Proyects from '../../Components/Proyects/Proyects';
 
-const ProyectsContain = () => {
+const ProyectsContain = ({language}) => {
     return (
         <section id='Proyectos'>
-            <Proyects/>
+            <Proyects language={language}/>
         </section>
     );
 };

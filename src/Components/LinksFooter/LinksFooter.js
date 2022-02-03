@@ -1,10 +1,14 @@
 import React from 'react';
 import './LinksFooter.css'
-const LinksFooter = () => {
+const LinksFooter = ({language}) => {
     return (
         <ul className="contanier-ul-footer">
-          <li className='logo-footer'>JDAVIDCOR23</li>  
+          <li className='logo-footer'>JDAVIDCOR23</li>
+          {language === true ?
+          <li>Done by Jorge David Diaz Cordero</li>  
+          :
           <li>Hecho por Jorge David Diaz Cordero</li>  
+          }  
           <ul className='container-logos-footer'>
               <li>
                   <a href='https://twitter.com/JDavidcor23' target="_blank" rel="noreferrer">

@@ -2,10 +2,10 @@ import React from 'react';
 import ListServicios from '../../Components/ListServicios/ListServicios';
 import './Servicios.css'
 
-const Servicios = () => {
+const Servicios = ({language}) => {
     return (
         <section id="servicios">
-            <ListServicios/>
+            <ListServicios language={language}/>
         </section>
     );
 };

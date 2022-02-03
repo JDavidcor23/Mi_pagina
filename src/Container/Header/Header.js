@@ -2,11 +2,11 @@ import React from 'react';
 import Iam from '../../Components/Iam/Iam';
 import Navbar from '../../Components/Navbar/Navbar';
 
-const Header = () => {
+const Header = ({language, setLanguage}) => {
     return (
         <div>
-            <Navbar/>
-            <Iam/>
+            <Navbar language={language} setLanguage={setLanguage}/>
+            <Iam language={language}/>
         </div>
     );
 };

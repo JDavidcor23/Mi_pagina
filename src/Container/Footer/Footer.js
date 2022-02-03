@@ -2,10 +2,10 @@ import React from 'react';
 import './Footer.css'
 import LinksFooter from '../../Components/LinksFooter/LinksFooter';
 
-const Footer = () => {
+const Footer = ({language}) => {
     return (
         <footer>
-            <LinksFooter/>
+            <LinksFooter language={language}/>
         </footer>
     );
 };
