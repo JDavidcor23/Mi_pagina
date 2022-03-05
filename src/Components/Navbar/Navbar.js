@@ -112,7 +112,7 @@ const Navbar = ({ language, setLanguage }) => {
         <li>
           {language === true ? (
             <a
-              href="https://drive.google.com/file/d/1JXaDz8BE1EmRfuirWh-P-JNPWLk9Xj2p/view?usp=sharing"
+              href="https://drive.google.com/file/d/1t74c_zSZerorxGNaWpSomVfyLPFKqKqx/view?usp=sharing"
               className="links"
               target="_blank"
               rel="noreferrer"
@@ -121,7 +121,7 @@ const Navbar = ({ language, setLanguage }) => {
             </a>
           ) : (
             <a
-              href="https://drive.google.com/file/d/1JXaDz8BE1EmRfuirWh-P-JNPWLk9Xj2p/view?usp=sharing"
+              href="https://drive.google.com/file/d/1L7whyBnagGI06DmIMJEDV_XzQFqviMU8/view?usp=sharing"
               className="links"
               target="_blank"
               rel="noreferrer"
