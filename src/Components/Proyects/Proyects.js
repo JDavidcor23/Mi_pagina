@@ -4,6 +4,14 @@ import './Proyects.css'
 const proyectosLinks =[
       {
         id:1,
+        title:"Worknow",
+        urlCode:"https://github.com/JDavidcor23/worknow",
+        url:"https://work-now-6ba72.web.app/",
+        img:"https://res.cloudinary.com/dhu6ga6hl/image/upload/v1647464405/dzbiw4cqzhweufranhub.png",
+        parrafo:"Worknow es la plataforma que le permite a los trabajadores en oficios manuales y usuarios normales a conectarse, acordar un precio y una vez haya finalizado la contratación puntuar al trabajador, tecnologías: Redux, React , Firebase, Styled-Components, Bootstrap, Formik, Redux, Whatsapp para mensajería y cloudinary para el almacenamiento de las imágenes"
+      },     
+      {
+        id:2,
         title:"Amazonas",
         urlCode:"https://github.com/JDavidcor23/amazonas",
         url:"https://as-74bd2.web.app",
@@ -11,7 +19,7 @@ const proyectosLinks =[
         parrafo:"Amazonas es una pagina inspirada en Amazon, que cuenta con varios artículos para que compres, puedes loguearte con Google,  Facebook o con tu cuenta de correo, también puedes filtrar, buscar añadir al carrito, vender, eliminar tus productos y editarlos tecnologías: Redux, React , Firebase, StyledComponents, Bootstrap, Formik, Yup"
     },
      {
-        id:2,
+        id:3,
         title:"Block Master",
         urlCode:"https://github.com/JDavidcor23/Block_master",
         url:"https://block-master-two.vercel.app",
@@ -19,7 +27,7 @@ const proyectosLinks =[
         parrafo:"Block Master, es una aplicación web para agregar películas como favoritas, filtrar, mostrar las más valoradas. Con este proyecto aprendí mucho más de los hooks en React, styled components y peticiones"
     },
     {
-        id:3,
+        id:4,
         title:"Aplicación de adopción",
         urlCode:"https://github.com/JDavidcor23/Adopcion__Academia-Geek",
         url:"https://jdavidcor23.github.io/Adopcion__Academia-Geek/",
@@ -27,7 +35,7 @@ const proyectosLinks =[
         parrafo:"Aplicación de adopción, es una aplicación web para adoptar animales de compañía que no tiene hogar, con este proyecto aprendí Javascript vanilla, funcione async await, peticiones fetch, cómo manejar datos tipo JSON, PUT, DELETE, POT y maquetación profesional."
     },
     {
-        id:4,
+        id:5,
         title:"Batabit",
         urlCode:"https://github.com/JDavidcor23/Responsive-desing",
         url:"https://jdavidcor23.github.io/Responsive-desing/",
@@ -35,7 +43,7 @@ const proyectosLinks =[
         parrafo:"Batabit, es una landing page para comprar bitcoins. Con este proyecto aprendí Responsive design en css,maquetación web, SEO y despliegue en GitHub pages."
     },
     {
-        id:5,
+        id:6,
         title:"React TODOs",
         urlCode:"https://github.com/JDavidcor23/Introduccion_a_Reactjs_Platzi",
         url:"https://jdavidcor23.github.io/Introduccion_a_Reactjs_Platzi/",
@@ -46,6 +54,14 @@ const proyectosLinks =[
 const proyectsLinks=[
       {
         id:1,
+        title:"Worknow",
+        urlCode:"https://github.com/JDavidcor23/worknow",
+        url:"https://work-now-6ba72.web.app/",
+        img:"https://res.cloudinary.com/dhu6ga6hl/image/upload/v1647464405/dzbiw4cqzhweufranhub.png",
+        parrafo:"Worknow is the platform that allows workers in manual trades and normal users to connect, agree on a price and once the hiring is finished, rate the worker, technologies: Redux, React, Firebase, Styled-Components, Bootstrap, Formik, Whatsapp for messaging and cloudinary for storing images."
+      },
+      {
+        id:2,
         title:"Amazonas",
         urlCode:"https://github.com/JDavidcor23/amazonas",
         url:"https://as-74bd2.web.app",
@@ -53,7 +69,7 @@ const proyectsLinks=[
         parrafo:"Amazonas is a website inspired by Amazon, which has several items for you to buy, you can log in with Google, Facebook or your email account, you can also filter, search, add to cart, sell, delete your products and edit them. Technologies: Redux, React, Firebase, StyledComponents, Bootstrap, Formik, Yup."
     },
      {
-        id:2,
+        id:3,
         title:"Block Master",
         urlCode:"https://github.com/JDavidcor23/Block_master",
         url:"https://block-master-two.vercel.app",
@@ -61,7 +77,7 @@ const proyectsLinks=[
         parrafo:"Block Master, is a web application to add movies as favorites, filter, show top rated movies. With this project I learned much more about React hooks, styled components and requests. Technologies: React, StyledComponents, Bootstrap."
     },
     {
-        id:3,
+        id:4,
         title:"Aplicación de adopción",
         urlCode:"https://github.com/JDavidcor23/Adopcion__Academia-Geek",
         url:"https://jdavidcor23.github.io/Adopcion__Academia-Geek/",
@@ -69,7 +85,7 @@ const proyectsLinks=[
         parrafo:"Adoption application, is a web application to adopt homeless pets, with this project I learned vanilla Javascript, async await, fetch requests, how to handle JSON data, PUT, DELETE, POT and professional layout. Technologies: Javascript, CSS3, HTML5."
     },
     {
-        id:4,
+        id:5,
         title:"Batabit",
         urlCode:"https://github.com/JDavidcor23/Responsive-desing",
         url:"https://jdavidcor23.github.io/Responsive-desing/",
@@ -77,7 +93,7 @@ const proyectsLinks=[
         parrafo:"Batabit, is a landing page to buy bitcoins. With this project I learned Responsive design in css, web layout, SEO and deployment in GitHub pages. Technologies: HTML5 ,CSS3."
     },
     {
-        id:5,
+        id:6,
         title:"React TODOs",
         urlCode:"https://github.com/JDavidcor23/Introduccion_a_Reactjs_Platzi",
         url:"https://jdavidcor23.github.io/Introduccion_a_Reactjs_Platzi/",
